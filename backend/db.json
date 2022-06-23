@@ -1,11 +1,24 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Jersy Fernandes",
-        "email": "Jersysilvafernandes@gmail.com"
-    }, {
-        "id": 2,
-        "name": "Davi Jose",
-        "email": "Quibiona@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Jersy Fernandes",
+      "email": "Jersysilvafernandes@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Davi Jose",
+      "email": "Quibiona@gmail.com"
+    },
+    {
+      "name": "Jersy Fernandes",
+      "email": "jesilva2001@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Jose Kiabala",
+      "email": "josed@abbottscm.co.za",
+      "id": 4
+    }
+  ]
 }
